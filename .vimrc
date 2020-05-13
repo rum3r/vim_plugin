@@ -4,11 +4,11 @@ au GUIEnter * simalt ~x
 set hls
 set is
 set cb=unnamed
-set gfn=Fixedsys:h15
+set gfn=Courier News:h18
 set ts=4
 set sw=4
 set si
-set colo slate
+colors slate
 cd C:\Users\kvirk\Documents\vimws
 
 inoremap { {}<Left>
