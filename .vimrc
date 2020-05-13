@@ -4,7 +4,7 @@ au GUIEnter * simalt ~x
 set hls
 set is
 set cb=unnamed
-set gfn=Courier News:h18
+set gfn=Courier New:h18
 set ts=4
 set sw=4
 set si
