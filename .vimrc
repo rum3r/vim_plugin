@@ -4,7 +4,7 @@ au GUIEnter * simalt ~x
 set hls
 set is
 set cb=unnamed
-set gfn=New_Courier:h18:cANSI:qDRAFT
+
 set ts=4
 set sw=4
 set si
@@ -61,3 +61,7 @@ function MyDiff()
     let &shellxquote=l:shxq_sav
   endif
 endfunction
+
+if has('gui_running')
+  set guifont=Courier_New:h18:cANSI:qDRAFT
+endif
