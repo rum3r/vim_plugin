@@ -63,5 +63,5 @@ function MyDiff()
 endfunction
 
 if has('gui_running')
-  set guifont=Courier_New:h18:cANSI:qDRAFT
+  set guifont=Consolas:h18:cANSI:qDRAFT
 endif
