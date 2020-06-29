@@ -8,7 +8,8 @@ set cb=unnamed
 set ts=4
 set sw=4
 set si
-colorscheme default
+colo desert
+syntax on
 
 cd C:\Users\KULJEET\Documents\vimws
 
