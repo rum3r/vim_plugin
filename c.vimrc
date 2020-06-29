@@ -8,9 +8,6 @@ set cb=unnamed
 set ts=4
 set sw=4
 set si
-colo default
-syntax on
-
 cd C:\Users\KULJEET\Documents\vimws
 
 inoremap { {}<Left>
