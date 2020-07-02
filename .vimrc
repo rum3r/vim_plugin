@@ -4,7 +4,7 @@ au GUIEnter * simalt ~x
 set hls
 set is
 set cb=unnamed
-
+set gfn=Consolas:h12
 set ts=4
 set sw=4
 set si
@@ -58,8 +58,4 @@ function MyDiff()
   if exists('l:shxq_sav')
     let &shellxquote=l:shxq_sav
   endif
-endfunction
-
-if has('gui_running')
-  set guifont=Consolas:h12:cANSI:qDRAFT
-endif
+endfunction5
