@@ -8,7 +8,7 @@ set gfn=Consolas:h12
 set ts=4
 set sw=4
 set si
-cd C:\Users\KULJEET\Documents\vimws
+cd C:\Users\kvirk\Documents\vimws
 
 inoremap { {}<Left>
 inoremap {<CR> {<CR>}<Esc>O
