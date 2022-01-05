@@ -1,4 +1,5 @@
 set tabstop=4
+set splitright
 set nocompatible
 set shiftwidth=4
 set expandtab
